@@ -1,27 +1,18 @@
-<h1 align="center">Hi 👋, I'm Untitled-Hacker</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# 💫 About Me:
+🔭 I’m currently working on Fucking<br><br>🌱 I’m currently learning Nothing<br><br>👯 I’m looking to collaborate on Python<br><br>💬 Ask me about Anything
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=untitled-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="untitled-hacker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=untitled-hacker" alt="untitled-hacker" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/httMaksudul.Alam.Rishat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlamRishat) 
 
-- 🔭 I’m currently working on **Fucking**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Untitled-Hacker&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Untitled-Hacker&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Untitled-Hacker&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **Nothing**
+---
+[![](https://visitcount.itsvg.in/api?id=Untitled-Hacker&icon=7&color=0)](https://visitcount.itsvg.in)
 
-- 👯 I’m looking to collaborate on **Python**
-
-- 💬 Ask me about **Anything**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alamrishat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamrishat" height="30" width="40" /></a>
-<a href="https://fb.com/maksudul.alam.rishat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maksudul.alam.rishat" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=untitled-hacker&show_icons=true&locale=en&layout=compact" alt="untitled-hacker" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=untitled-hacker&show_icons=true&locale=en" alt="untitled-hacker" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
