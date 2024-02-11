@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/httMaksudul.Alam.Rishat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlamRishat) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Maksudul.Alam.Rishat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlamRishat) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
