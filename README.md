@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fucking<br><br>🌱 I’m currently learning Nothing<br><br>👯 I’m looking to collaborate on Python<br><br>💬 Ask me about Anything
+🔭 I’m currently working on Student<br><br>🌱 I’m currently learning Nothing<br><br>👯 I’m looking to collaborate on Python<br><br>💬 Ask me about Anything
 
 
 ## 🌐 Socials:
